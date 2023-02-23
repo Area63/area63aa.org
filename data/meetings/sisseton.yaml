@@ -1,13 +1,16 @@
 area: 63
-#district: ?
-address: 619 Main Ave, Sisseton, SD, 57262
-name: Sisseton Group
-place: St. Kateri's
+district: 6
+address: 302 East Maple, Sisseton, SD, 57262
+name: Dakota Plains Recovery
+place:
 time:
-  Monday: ['20:00']
-  Sunday: ['20:00']
-  Thursday: ['20:00']
-  Tuesday: ['20:00']
-type: [C, D, X, EN]
-longitude: -97.050739
-latitude: 45.665805
+    Sunday: ["20.00"]
+    Monday: ["12:00"]
+    Tuesday: ["20:00"]
+    Wednesday: ["12:00", "20:00"]
+    Thursday: ["20:00"]
+    Friday: ["12:00"]
+    Saturday: ["10:00"]
+type: [C, D, X, EN, B]
+longitude: -97.0471
+latitude: 45.6637
