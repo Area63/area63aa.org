@@ -1,0 +1,8 @@
+ area: 63
+ district: 9
+ name: Gilbert Ave Women's meeting
+  time:
+    Saturday: ["10:00"]
+  place: Gilbert House
+  address: 1021 North Gilbert Ave, Watertown, SD, 57201
+  type: [EN, O]
