@@ -1,0 +1,10 @@
+area: 63
+district: 9
+address: 1021 N Gilbert Ave, Watertown, SD, 57201
+name: Gilbert Avenue Womens
+place: Gilbert House
+time:
+  Saturday: ['10:00']
+type: [X, B, EN, 12x12, O]
+longitude: -97.09724495775099
+latitude: 44.90065837039436
